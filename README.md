@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat / Project built at Rocketseat's Next Level Week event
 
-[🔗 Clique aqui para acessar](https://marinnapereira.github.io/nlw-esports-explorer)
+[🔗 Clique aqui para acessar / Click here to access](https://marinnapereira.github.io/nlw-esports-explorer)
 
 ## 🛠️ Tecnologias / Technologies
 
